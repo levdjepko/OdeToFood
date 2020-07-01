@@ -1,7 +1,12 @@
-
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OdeToFood", "OdeToFood\OdeToFood.csproj", "{8AD54B8E-3E3C-4705-B43D-46BD38970323}"
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OdeToFood", "OdeToFood\OdeToFood.csproj", "{8AD54B8E-3E3C-4705-B43D-46BD38970323}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OdeToFood.Cores", "OdeToFood.Cores\OdeToFood.Cores.csproj", "{AC387A6B-DEE0-4836-A45E-E5570A4250FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OdeToFood.Data", "OdeToFood.Data\OdeToFood.Data.csproj", "{BEF677A2-5A1A-4998-AFBF-E92811EA58E3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,5 +18,19 @@ Global
 		{8AD54B8E-3E3C-4705-B43D-46BD38970323}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AD54B8E-3E3C-4705-B43D-46BD38970323}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AD54B8E-3E3C-4705-B43D-46BD38970323}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC387A6B-DEE0-4836-A45E-E5570A4250FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC387A6B-DEE0-4836-A45E-E5570A4250FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC387A6B-DEE0-4836-A45E-E5570A4250FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC387A6B-DEE0-4836-A45E-E5570A4250FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEF677A2-5A1A-4998-AFBF-E92811EA58E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEF677A2-5A1A-4998-AFBF-E92811EA58E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEF677A2-5A1A-4998-AFBF-E92811EA58E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEF677A2-5A1A-4998-AFBF-E92811EA58E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D56DA4D0-655C-4D41-BC98-A19C695623DD}
 	EndGlobalSection
 EndGlobal
