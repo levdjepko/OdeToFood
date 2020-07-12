@@ -10,3 +10,15 @@ C:\Users\Лёва\Source\Repos\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\
 C:\Users\Лёва\Source\Repos\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.csproj.CopyComplete
 C:\Users\Лёва\Source\Repos\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.dll
 C:\Users\Лёва\Source\Repos\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.pdb
+C:\Users\Лёва\source\repos\OdeToFood_2\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Data.deps.json
+C:\Users\Лёва\source\repos\OdeToFood_2\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Data.dll
+C:\Users\Лёва\source\repos\OdeToFood_2\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Data.pdb
+C:\Users\Лёва\source\repos\OdeToFood_2\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Cores.dll
+C:\Users\Лёва\source\repos\OdeToFood_2\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Cores.pdb
+C:\Users\Лёва\source\repos\OdeToFood_2\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.csprojAssemblyReference.cache
+C:\Users\Лёва\source\repos\OdeToFood_2\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.AssemblyInfoInputs.cache
+C:\Users\Лёва\source\repos\OdeToFood_2\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.AssemblyInfo.cs
+C:\Users\Лёва\source\repos\OdeToFood_2\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.csproj.CoreCompileInputs.cache
+C:\Users\Лёва\source\repos\OdeToFood_2\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.csproj.CopyComplete
+C:\Users\Лёва\source\repos\OdeToFood_2\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.dll
+C:\Users\Лёва\source\repos\OdeToFood_2\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.pdb

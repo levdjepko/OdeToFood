@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Лёва\\Source\\Repos\\OdeToFood\\OdeToFood\\OdeToFood.csproj": {}
+    "C:\\Users\\Лёва\\source\\repos\\OdeToFood_2\\OdeToFood\\OdeToFood.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Лёва\\Source\\Repos\\OdeToFood\\OdeToFood.Cores\\OdeToFood.Cores.csproj": {
+    "C:\\Users\\Лёва\\source\\repos\\OdeToFood_2\\OdeToFood.Cores\\OdeToFood.Cores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Лёва\\Source\\Repos\\OdeToFood\\OdeToFood.Cores\\OdeToFood.Cores.csproj",
+        "projectUniqueName": "C:\\Users\\Лёва\\source\\repos\\OdeToFood_2\\OdeToFood.Cores\\OdeToFood.Cores.csproj",
         "projectName": "OdeToFood.Cores",
-        "projectPath": "C:\\Users\\Лёва\\Source\\Repos\\OdeToFood\\OdeToFood.Cores\\OdeToFood.Cores.csproj",
+        "projectPath": "C:\\Users\\Лёва\\source\\repos\\OdeToFood_2\\OdeToFood.Cores\\OdeToFood.Cores.csproj",
         "packagesPath": "C:\\Users\\Лёва\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Лёва\\Source\\Repos\\OdeToFood\\OdeToFood.Cores\\obj\\",
+        "outputPath": "C:\\Users\\Лёва\\source\\repos\\OdeToFood_2\\OdeToFood.Cores\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -61,14 +61,14 @@
         }
       }
     },
-    "C:\\Users\\Лёва\\Source\\Repos\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj": {
+    "C:\\Users\\Лёва\\source\\repos\\OdeToFood_2\\OdeToFood.Data\\OdeToFood.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Лёва\\Source\\Repos\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Лёва\\source\\repos\\OdeToFood_2\\OdeToFood.Data\\OdeToFood.Data.csproj",
         "projectName": "OdeToFood.Data",
-        "projectPath": "C:\\Users\\Лёва\\Source\\Repos\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
+        "projectPath": "C:\\Users\\Лёва\\source\\repos\\OdeToFood_2\\OdeToFood.Data\\OdeToFood.Data.csproj",
         "packagesPath": "C:\\Users\\Лёва\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Лёва\\Source\\Repos\\OdeToFood\\OdeToFood.Data\\obj\\",
+        "outputPath": "C:\\Users\\Лёва\\source\\repos\\OdeToFood_2\\OdeToFood.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -89,8 +89,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Лёва\\Source\\Repos\\OdeToFood\\OdeToFood.Cores\\OdeToFood.Cores.csproj": {
-                "projectPath": "C:\\Users\\Лёва\\Source\\Repos\\OdeToFood\\OdeToFood.Cores\\OdeToFood.Cores.csproj"
+              "C:\\Users\\Лёва\\source\\repos\\OdeToFood_2\\OdeToFood.Cores\\OdeToFood.Cores.csproj": {
+                "projectPath": "C:\\Users\\Лёва\\source\\repos\\OdeToFood_2\\OdeToFood.Cores\\OdeToFood.Cores.csproj"
               }
             }
           }
@@ -122,14 +122,14 @@
         }
       }
     },
-    "C:\\Users\\Лёва\\Source\\Repos\\OdeToFood\\OdeToFood\\OdeToFood.csproj": {
+    "C:\\Users\\Лёва\\source\\repos\\OdeToFood_2\\OdeToFood\\OdeToFood.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Лёва\\Source\\Repos\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
+        "projectUniqueName": "C:\\Users\\Лёва\\source\\repos\\OdeToFood_2\\OdeToFood\\OdeToFood.csproj",
         "projectName": "OdeToFood",
-        "projectPath": "C:\\Users\\Лёва\\Source\\Repos\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
+        "projectPath": "C:\\Users\\Лёва\\source\\repos\\OdeToFood_2\\OdeToFood\\OdeToFood.csproj",
         "packagesPath": "C:\\Users\\Лёва\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Лёва\\Source\\Repos\\OdeToFood\\OdeToFood\\obj\\",
+        "outputPath": "C:\\Users\\Лёва\\source\\repos\\OdeToFood_2\\OdeToFood\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -150,8 +150,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Лёва\\Source\\Repos\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj": {
-                "projectPath": "C:\\Users\\Лёва\\Source\\Repos\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj"
+              "C:\\Users\\Лёва\\source\\repos\\OdeToFood_2\\OdeToFood.Data\\OdeToFood.Data.csproj": {
+                "projectPath": "C:\\Users\\Лёва\\source\\repos\\OdeToFood_2\\OdeToFood.Data\\OdeToFood.Data.csproj"
               }
             }
           }

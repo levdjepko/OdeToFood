@@ -7,3 +7,12 @@ C:\Users\Лёва\Source\Repos\OdeToFood\OdeToFood.Cores\obj\Debug\netcoreapp3.1
 C:\Users\Лёва\Source\Repos\OdeToFood\OdeToFood.Cores\obj\Debug\netcoreapp3.1\OdeToFood.Cores.csproj.CoreCompileInputs.cache
 C:\Users\Лёва\Source\Repos\OdeToFood\OdeToFood.Cores\obj\Debug\netcoreapp3.1\OdeToFood.Cores.dll
 C:\Users\Лёва\Source\Repos\OdeToFood\OdeToFood.Cores\obj\Debug\netcoreapp3.1\OdeToFood.Cores.pdb
+C:\Users\Лёва\source\repos\OdeToFood_2\OdeToFood.Cores\bin\Debug\netcoreapp3.1\OdeToFood.Cores.deps.json
+C:\Users\Лёва\source\repos\OdeToFood_2\OdeToFood.Cores\bin\Debug\netcoreapp3.1\OdeToFood.Cores.dll
+C:\Users\Лёва\source\repos\OdeToFood_2\OdeToFood.Cores\bin\Debug\netcoreapp3.1\OdeToFood.Cores.pdb
+C:\Users\Лёва\source\repos\OdeToFood_2\OdeToFood.Cores\obj\Debug\netcoreapp3.1\OdeToFood.Cores.csprojAssemblyReference.cache
+C:\Users\Лёва\source\repos\OdeToFood_2\OdeToFood.Cores\obj\Debug\netcoreapp3.1\OdeToFood.Cores.AssemblyInfoInputs.cache
+C:\Users\Лёва\source\repos\OdeToFood_2\OdeToFood.Cores\obj\Debug\netcoreapp3.1\OdeToFood.Cores.AssemblyInfo.cs
+C:\Users\Лёва\source\repos\OdeToFood_2\OdeToFood.Cores\obj\Debug\netcoreapp3.1\OdeToFood.Cores.csproj.CoreCompileInputs.cache
+C:\Users\Лёва\source\repos\OdeToFood_2\OdeToFood.Cores\obj\Debug\netcoreapp3.1\OdeToFood.Cores.dll
+C:\Users\Лёва\source\repos\OdeToFood_2\OdeToFood.Cores\obj\Debug\netcoreapp3.1\OdeToFood.Cores.pdb
